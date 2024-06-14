@@ -23,7 +23,7 @@
 
     |||
     | :---: | :---: |
-    | <img src="./images/var_select.png"> | ![alt text](./images/var_set.png) | 
+    | <img src="./images/var_select.png"> | <img src="./images/var_set.png"> | 
     | 대한당뇨병학회에서 정의한 위험 인자 리스트 | 모델 학습용으로 선정한 변수 리스트 |  
 
     ### 2. 결측치 처리
